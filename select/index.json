@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "あなたの選んだこの時を",
+  "base_artist": "いとうかなこ",
+  "createdAt": "2025-12-01T10:16:00.350510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたの選んだこの時を",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/01_あなたの選んだこの時を_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなたの選んだこの時を",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/02_あなたの選んだこの時を_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなたの選んだこの時を",
+      "artist": "STEINS;GATE",
+      "has_synced": true,
+      "path": "select/03_あなたの選んだこの時を_STEINS;GATE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あなたの選んだこの時を",
+      "artist": "Kanako Ito",
+      "has_synced": true,
+      "path": "select/04_あなたの選んだこの時を_Kanako_Ito.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あなたの選んだこの時を",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_あなたの選んだこの時を_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あなたの選んだこの時を",
+      "artist": "威闘華鳴乎 (いとう かなこ)",
+      "has_synced": true,
+      "path": "select/06_あなたの選んだこの時を_威闘華鳴乎_(いとう_かなこ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたの選んだこの時を",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_01_あなたの選んだこの時を_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "あなたの選んだこの時を",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_02_あなたの選んだこの時を_いとう_かなこ.txt"
+    }
+  ]
+}
